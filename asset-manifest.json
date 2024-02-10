@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/css/main.d3c1bf82.css",
+    "main.js": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/js/main.31f657fc.js",
+    "static/js/592.73b77d2f.chunk.js": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/js/592.73b77d2f.chunk.js",
+    "static/media/person11.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person11.a7bff1963ef6e1f89da0.png",
+    "static/media/home.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/home.91da58339d8a1fe1e7c5.png",
+    "static/media/person5.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person5.2b4d74cb46cdaf544cc7.png",
+    "static/media/person6.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person6.f9b1736a81622cc1dbf5.png",
+    "static/media/person9.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person9.f32870e8320b82822be0.png",
+    "static/media/person10.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person10.2826d2e91a81dd0aabd6.png",
+    "static/media/person4.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person4.2bff3b174a20f3e807c4.png",
+    "static/media/person1.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person1.5168612fb4bfd6029d85.png",
+    "static/media/person7.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person7.bd1ec922cd4f587fa499.png",
+    "static/media/person8.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person8.c2961d5ae4b817c0ce76.png",
+    "static/media/person2.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/person2.116a51be8e4711741f2c.png",
+    "static/media/logo.png": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/media/logo.4c6aab6a7dd204b9437f.png",
+    "index.html": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/index.html",
+    "main.d3c1bf82.css.map": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/css/main.d3c1bf82.css.map",
+    "main.31f657fc.js.map": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/js/main.31f657fc.js.map",
+    "592.73b77d2f.chunk.js.map": "/MOHAMMAD-ARSATH/VeriTech_CompanyWebsite/static/js/592.73b77d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c1bf82.css",
+    "static/js/main.31f657fc.js"
+  ]
+}
