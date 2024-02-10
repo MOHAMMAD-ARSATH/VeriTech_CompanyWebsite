@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VeriTech_CompanyWebsite/static/css/main.ec10aef5.css",
+    "main.css": "/VeriTech_CompanyWebsite/static/css/main.21eb6798.css",
     "main.js": "/VeriTech_CompanyWebsite/static/js/main.e24145b1.js",
     "static/js/592.73b77d2f.chunk.js": "/VeriTech_CompanyWebsite/static/js/592.73b77d2f.chunk.js",
     "static/media/person11.png": "/VeriTech_CompanyWebsite/static/media/person11.a7bff1963ef6e1f89da0.png",
@@ -16,12 +16,12 @@
     "static/media/person2.png": "/VeriTech_CompanyWebsite/static/media/person2.116a51be8e4711741f2c.png",
     "static/media/logo.png": "/VeriTech_CompanyWebsite/static/media/logo.4c6aab6a7dd204b9437f.png",
     "index.html": "/VeriTech_CompanyWebsite/index.html",
-    "main.ec10aef5.css.map": "/VeriTech_CompanyWebsite/static/css/main.ec10aef5.css.map",
+    "main.21eb6798.css.map": "/VeriTech_CompanyWebsite/static/css/main.21eb6798.css.map",
     "main.e24145b1.js.map": "/VeriTech_CompanyWebsite/static/js/main.e24145b1.js.map",
     "592.73b77d2f.chunk.js.map": "/VeriTech_CompanyWebsite/static/js/592.73b77d2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec10aef5.css",
+    "static/css/main.21eb6798.css",
     "static/js/main.e24145b1.js"
   ]
 }
